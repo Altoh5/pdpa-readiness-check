@@ -1,0 +1,9 @@
+{
+  "name": "pdpa-readiness-check",
+  "version": "1.0.0",
+  "description": "Interactive PDPA readiness assessment for Malaysian SMEs — covers mandatory DPO and 72-hour breach notification obligations (effective 1 June 2025).",
+  "scripts": {
+    "start": "bun run server.ts"
+  },
+  "license": "MIT"
+}
